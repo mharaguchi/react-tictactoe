@@ -1,1 +1,1 @@
-# react-tictactoe
+From /src folder "npm run"
